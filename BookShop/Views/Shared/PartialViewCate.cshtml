@@ -1,0 +1,11 @@
+﻿@model List<BookShop.Model.CHUDE>
+<ul>
+    <h3>Danh mục sách</h3>
+
+    @foreach (var item in Model)
+    {
+        <li><a href="@Url.Action("Index","Sach", new { id =item.MaCD})"></a>@item.Tenchude</li>
+    }
+
+   
+</ul>

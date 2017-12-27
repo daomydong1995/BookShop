@@ -1,0 +1,32 @@
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Repository\bin\Debug\BookShop.Repository.dll.config
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Repository\bin\Debug\BookShop.Repository.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Repository\bin\Debug\BookShop.Repository.pdb
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Repository\bin\Debug\BookShop.IRespository.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Repository\bin\Debug\BookShop.Model.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Repository\bin\Debug\EntityFramework.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Repository\bin\Debug\BookShop.IRespository.pdb
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Repository\bin\Debug\BookShop.Model.pdb
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Repository\bin\Debug\EntityFramework.xml
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Repository\obj\Debug\BookShop.Repository.csprojResolveAssemblyReference.cache
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Repository\obj\Debug\BookShop.Repository.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Repository\obj\Debug\BookShop.Repository.pdb
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Repository\bin\Debug\PagedList.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Repository\bin\Debug\PagedList.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Repository\bin\Debug\BookShop.Repository.dll.config
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Repository\bin\Debug\BookShop.Repository.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Repository\bin\Debug\BookShop.Repository.pdb
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Repository\bin\Debug\BookShop.IRespository.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Repository\bin\Debug\BookShop.Model.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Repository\bin\Debug\EntityFramework.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Repository\bin\Debug\PagedList.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Repository\bin\Debug\BookShop.IRespository.pdb
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Repository\bin\Debug\BookShop.Model.pdb
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Repository\bin\Debug\EntityFramework.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Repository\bin\Debug\PagedList.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Repository\obj\Debug\BookShop.Repository.csprojResolveAssemblyReference.cache
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Repository\obj\Debug\BookShop.Repository.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Repository\obj\Debug\BookShop.Repository.pdb

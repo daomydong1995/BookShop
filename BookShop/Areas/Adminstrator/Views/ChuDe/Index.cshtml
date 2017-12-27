@@ -1,0 +1,22 @@
+﻿@model PagedList.IPagedList<BookShop.Model.CHUDE>
+    @using PagedList.Mvc
+@{
+    ViewBag.Title = "Index";
+}
+<div class="row">
+    <div class="col-md-6">
+        <h2><span class="glyphicon glyphicon-play-circle"></span> lí chủ đề</h2>
+    </div>
+    <div class="col-md-6">
+        <h2 class="text-right">
+            <i class="fa fa-plus-square" aria-hidden="true"></i>@Html.ActionLink("Thêm mới", "Create", "ChuDe")
+        </h2>
+    </div>
+</div>
+
+<div id="chude_area">
+    @{ 
+        Html.RenderAction("Getpaging", "ChuDe", new { page = 1 });
+     }
+</div>
+

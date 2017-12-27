@@ -1,0 +1,23 @@
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Model\bin\Debug\BookShop.Model.dll.config
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Model\bin\Debug\BookShop.Model.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Model\bin\Debug\BookShop.Model.pdb
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Model\bin\Debug\EntityFramework.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Model\bin\Debug\EntityFramework.xml
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Model\obj\Debug\BookShop.Model.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Model\obj\Debug\BookShop.Model.pdb
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Model\bin\Debug\PagedList.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop.Model\bin\Debug\PagedList.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Model\bin\Debug\BookShop.Model.dll.config
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Model\bin\Debug\BookShop.Model.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Model\bin\Debug\BookShop.Model.pdb
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Model\bin\Debug\EntityFramework.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Model\bin\Debug\PagedList.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Model\bin\Debug\EntityFramework.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Model\bin\Debug\PagedList.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Model\obj\Debug\BookShop.Model.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Model\obj\Debug\BookShop.Model.pdb
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Model\obj\Debug\BookShop.Model.csprojResolveAssemblyReference.cache
