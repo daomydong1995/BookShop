@@ -20,4 +20,3 @@ E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookS
 E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Model\bin\Debug\PagedList.xml
 E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Model\obj\Debug\BookShop.Model.dll
 E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Model\obj\Debug\BookShop.Model.pdb
-E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop.Model\obj\Debug\BookShop.Model.csprojResolveAssemblyReference.cache

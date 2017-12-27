@@ -172,11 +172,13 @@
     <Compile Include="Areas\Adminstrator\Controllers\HomeController.cs" />
     <Compile Include="Areas\Adminstrator\Controllers\NhaXuatBanController.cs" />
     <Compile Include="Areas\Adminstrator\Controllers\SachController.cs" />
+    <Compile Include="Controllers\CartController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\SachController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\CartItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -284,7 +286,7 @@
     <Folder Include="Content\css\" />
     <Folder Include="Content\font\" />
     <Folder Include="Content\js\" />
-    <Folder Include="Models\" />
+    <Folder Include="Views\Cart\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />

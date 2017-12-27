@@ -90,7 +90,7 @@
                         <p><span class="rupees">@item.Dongia</span></p>
                     </div>
                     <div class="add-cart">
-                        <h4><a href="preview.html">Thêm vào giỏ hàng</a></h4>
+                        <h4><button class="button btn-primary" onclick="AddToCast('@item.Masach')">Thêm vào giỏ hàng</button></h4>
                     </div>
                     <div class="clear"></div>
                 </div>
@@ -112,7 +112,7 @@
                     <p><span class="rupees">@item.Dongia</span></p>
                 </div>
                 <div class="add-cart">
-                    <h4><a href="preview.html">Thêm vào giỏ hàng</a></h4>
+                    <h4><button class="button btn-success" onclick="AddToCart('@item.Masach')">Thêm vào giỏ hàng</button></h4>
                 </div>
                 <div class="clear"></div>
             </div>
@@ -124,3 +124,14 @@
     </div>
     
 </div>
+<script type="text/javascript">
+    function AddToCart(Masach) {
+        $.ajax({
+            url: "/Cart/AddToCart",
+            data: { id: Masach },
+            type: "POST",
+            success: function (data) { $("#TTGioHang").html(data.ItemAmount); },
+            error:function(errormesage){alert(errormesage.responseText);}
+        })
+    }
+</script>
