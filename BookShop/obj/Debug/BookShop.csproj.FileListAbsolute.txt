@@ -1,0 +1,136 @@
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\ApplicationInsights.config
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\roslyn\csc.exe
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\roslyn\System.Collections.Immutable.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\roslyn\vbc.exe
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe.config
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\BookShop.dll.config
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\BookShop.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\BookShop.pdb
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\Antlr3.Runtime.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\BookShop.Model.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\BookShop.Repository.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\CKFinder.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\EntityFramework.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\EntityFramework.SqlServer.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\Microsoft.AI.Web.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\Microsoft.ApplicationInsights.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\Newtonsoft.Json.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\System.Web.Helpers.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\System.Web.Mvc.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\System.Web.Optimization.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\System.Web.Razor.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\System.Web.WebPages.Deployment.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\System.Web.WebPages.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\System.Web.WebPages.Razor.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\WebGrease.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\BookShop.IRespository.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\BookShop.Model.pdb
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\BookShop.Repository.pdb
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\EntityFramework.xml
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\EntityFramework.SqlServer.xml
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.xml
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\Microsoft.AI.Web.xml
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.xml
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\Microsoft.ApplicationInsights.xml
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\System.Web.Helpers.xml
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\System.Web.Mvc.xml
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\System.Web.Optimization.xml
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\System.Web.Razor.xml
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\System.Web.WebPages.xml
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\System.Web.WebPages.Deployment.xml
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\System.Web.WebPages.Razor.xml
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\Antlr3.Runtime.pdb
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\Newtonsoft.Json.xml
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\BookShop.IRespository.pdb
+D:\Hoc\ASP.net\lab\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+D:\Hoc\ASP.net\lab\BookShop\BookShop\obj\Debug\BookShop.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\obj\Debug\BookShop.pdb
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\PagedList.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\PagedList.Mvc.dll
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\PagedList.xml
+D:\Hoc\ASP.net\lab\BookShop\BookShop\bin\PagedList.Mvc.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\ApplicationInsights.config
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\roslyn\csc.exe
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\roslyn\System.Collections.Immutable.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\roslyn\vbc.exe
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe.config
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\BookShop.dll.config
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\BookShop.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\BookShop.pdb
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\Antlr3.Runtime.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\BookShop.Model.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\BookShop.Repository.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\CKFinder.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\EntityFramework.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\EntityFramework.SqlServer.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\Microsoft.AI.Agent.Intercept.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\Microsoft.AI.Web.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\Microsoft.ApplicationInsights.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\Microsoft.Web.Infrastructure.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\Newtonsoft.Json.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\PagedList.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\PagedList.Mvc.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\System.Web.Helpers.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\System.Web.Mvc.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\System.Web.Optimization.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\System.Web.Razor.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\System.Web.WebPages.Deployment.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\System.Web.WebPages.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\System.Web.WebPages.Razor.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\WebGrease.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\BookShop.IRespository.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\BookShop.Model.pdb
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\BookShop.Repository.pdb
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\EntityFramework.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\EntityFramework.SqlServer.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\Microsoft.AI.Web.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\Microsoft.ApplicationInsights.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\PagedList.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\PagedList.Mvc.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\System.Web.Helpers.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\System.Web.Mvc.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\System.Web.Optimization.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\System.Web.Razor.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\System.Web.WebPages.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\System.Web.WebPages.Deployment.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\System.Web.WebPages.Razor.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\Antlr3.Runtime.pdb
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\Newtonsoft.Json.xml
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\bin\BookShop.IRespository.pdb
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\obj\Debug\BookShop.dll
+E:\OneDrive\Documents\Visual Studio 2015\Projects\ThucHanhASP.NET\BookShop\BookShop\obj\Debug\BookShop.pdb
